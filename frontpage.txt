@@ -95,6 +95,7 @@
             <label for="contact">Emergency Contact Number</label>
             <input type="tel" id="contact" name="contact" required>
 
+
             <button type="submit" class="btn">Submit Application</button>
         </form>
     </div>
